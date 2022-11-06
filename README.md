@@ -1,3 +1,8 @@
+This readme file is written by the original author.   
+This is the website: https://bitbucket.org/catlikecoding-projects/hex-map-project/src/master
+
+
+
 # Hex Map Project
 
 ![Hex Map screenshot](Documentation/images/hex-map-banner.jpg)
