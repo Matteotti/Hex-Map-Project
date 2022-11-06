@@ -1,5 +1,6 @@
-This readme file is written by the original author.   
-This is the website: https://bitbucket.org/catlikecoding-projects/hex-map-project/src/master
+This readme file is written by the original author "catlikecoding".   
+This is his/her website: https://bitbucket.org/catlikecoding-projects/hex-map-project/src/master
+I use this project for my unity studying.
 
 
 
